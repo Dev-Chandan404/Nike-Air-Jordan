@@ -74,5 +74,5 @@ STATUS
 Front-end UI clone only. No data persistence or server logic. Stable UI build
 ready for enhancement or integration.
 
-END OF DOCUMENT
+💡 This project is for learning and front-end development practice.
 ================================================================================
