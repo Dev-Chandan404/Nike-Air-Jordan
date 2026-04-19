@@ -1,78 +1,155 @@
-================================================================================
-Project: Nike Air Jordan Clone
-Repository: Dev-Chandan404/Nike-Air-Jordan
-================================================================================
+<div align="center">
 
-DESCRIPTION
---------------------------------------------------------------------------------
-This repository contains a front-end clone of the Nike Air Jordan website
-interface implemented using standard web technologies: HTML, CSS, and JavaScript.
-The project focuses on layout fidelity, responsive behavior, UI structure, and
-user interface patterns found in modern e-commerce front ends.
+<sub>Dev-Chandan404 / Nike-Air-Jordan</sub>
 
-The codebase replicates visual structure and styling without back-end data
-integration. Interactivity is limited to UI behavior and responsive layout.
+# 👟 Nike Air Jordan — Website Clone 👟
 
-FILES
---------------------------------------------------------------------------------
-index.html        -- Main landing page structure
-styles.css        -- Project CSS with responsive media queries
-script.js         -- JavaScript for interactive UI behavior
-assets/           -- Images, icons, and static resources
+### *Bold Layout. Responsive Design. Icon-Level UI.*
 
-GOALS
---------------------------------------------------------------------------------
-• Replicate Nike Air Jordan style user interface  
-• Static HTML structure with semantic elements  
-• Responsive layout across breakpoints  
-• Sidebar filtering and product grid design  
-• Interactive navigation (hamburger menu, dropdowns)  
-• Maintainable, modular CSS
+<br/>
 
-TECHNOLOGY
---------------------------------------------------------------------------------
-HTML5
-CSS3
-Vanilla JavaScript
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-FF5722?style=for-the-badge&logo=githubpages&logoColor=white)](https://dev-chandan404.github.io/Nike-Air-Jordan/)
+[![Star on GitHub](https://img.shields.io/badge/STAR_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Chandan404/Nike-Air-Jordan)
+[![Report Bug](https://img.shields.io/badge/REPORT_BUG-ff69b4?style=for-the-badge&logo=bugsnag&logoColor=white)](https://github.com/Dev-Chandan404/Nike-Air-Jordan/issues)
 
-RESPONSIVE BREAKPOINTS
---------------------------------------------------------------------------------
-Desktop        — Base layout
-≤1024px        — Large tablets adjustments
-≤768px         — Tablet / mobile nav transforms
-≤480px         — Small mobile refinements
+<br/>
 
-INSTALLATION
---------------------------------------------------------------------------------
-1. Clone repository:
-   $ git clone https://github.com/Dev-Chandan404/Nike-Air-Jordan.git
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
+[![MIT License](https://img.shields.io/badge/License-MIT-gray?style=for-the-badge)](LICENSE)
 
-2. Enter folder:
-   $ cd Nike-Air-Jordan
+<br/>
 
-3. Open in browser:
-   $ open index.html
-   (or load in any web browser of choice)
+[![Commits](https://img.shields.io/github/commit-activity/t/Dev-Chandan404/Nike-Air-Jordan?style=flat-square&label=commits)](https://github.com/Dev-Chandan404/Nike-Air-Jordan/commits)
+[![Repo size](https://img.shields.io/github/repo-size/Dev-Chandan404/Nike-Air-Jordan?style=flat-square)](https://github.com/Dev-Chandan404/Nike-Air-Jordan)
+[![Stars](https://img.shields.io/github/stars/Dev-Chandan404/Nike-Air-Jordan?style=flat-square&color=ffd700)](https://github.com/Dev-Chandan404/Nike-Air-Jordan/stargazers)
 
-USAGE
---------------------------------------------------------------------------------
-This project is a static prototype. No server required. Browse the UI locally
-or deploy via static hosting.
+<br/>
 
-CONTRIBUTION
---------------------------------------------------------------------------------
-Contributions accepted via pull requests. Maintain coding conventions and
-responsive compatibility.
+<a href="https://dev-chandan404.github.io/Nike-Air-Jordan/">
+  <img src="https://api.screenshotone.com/take?url=https://dev-chandan404.github.io/Nike-Air-Jordan/&viewport_width=1280&viewport_height=720&format=jpg&image_quality=90" alt="Nike Air Jordan Clone Preview" width="90%" />
+</a>
 
-LICENSE
---------------------------------------------------------------------------------
-Project source is available without a formal license. Use for learning and
-reference. Redistribution without modification permitted.
+*Nike Air Jordan — A pixel-perfect UI clone built with pure HTML, CSS & JavaScript*
 
-STATUS
---------------------------------------------------------------------------------
-Front-end UI clone only. No data persistence or server logic. Stable UI build
-ready for enhancement or integration.
+</div>
 
-💡 This project is for learning and front-end development practice.
-================================================================================
+---
+
+## ✨ About the Project
+
+> A **fully responsive Nike Air Jordan website clone** built using pure HTML, CSS, and JavaScript. This project replicates the modern Nike UI experience — from bold product grids and sidebar filters to interactive navigation — with zero frameworks and zero dependencies.
+
+Focused on **layout fidelity**, **responsive breakpoints**, and **UI interaction patterns** found in real-world e-commerce frontends.
+
+---
+
+## 🎯 Key Features
+
+| | Feature | Description |
+|---|---|---|
+| 👟 | **Nike UI Clone** | Pixel-faithful recreation of the Air Jordan product interface |
+| 🔍 | **Filter Functionality** | Sidebar product filtering for an authentic shopping feel |
+| 🍔 | **Interactive Navigation** | Hamburger menu and dropdowns with smooth JS behavior |
+| 📐 | **4-Breakpoint Responsive** | Tailored layouts for desktop, tablet, and mobile |
+| 🎨 | **Modular CSS** | Clean, maintainable stylesheets with semantic class naming |
+| ⚡ | **Zero Dependencies** | Pure vanilla stack — no libraries, no build tools |
+
+---
+
+## 🛠️ Built With
+
+<div align="center">
+
+| HTML5 | CSS3 | JavaScript |
+|-------|------|------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48"/> |
+
+</div>
+
+---
+
+## 📂 Website Sections
+
+| Section | Description |
+|---------|-------------|
+| 🏠 **Hero** | Bold full-width banner with Air Jordan branding |
+| 🧭 **Navigation** | Interactive navbar with hamburger menu for mobile |
+| 👟 **Product Grid** | Clean product listing in a responsive card layout |
+| 🔍 **Sidebar Filter** | Category and style filters to refine product view |
+| 📬 **Footer** | Links, info, and brand details |
+
+---
+
+## 📱 Responsive Breakpoints
+
+| Breakpoint | Target |
+|------------|--------|
+| Base | Desktop full layout |
+| ≤ 1024px | Large tablet adjustments |
+| ≤ 768px | Tablet — nav transforms to hamburger |
+| ≤ 480px | Small mobile refinements |
+
+---
+
+## 🚀 Getting Started
+
+No installation. No build step. Just clone and go.
+
+```bash
+# Clone the repo
+git clone https://github.com/Dev-Chandan404/Nike-Air-Jordan.git
+cd Nike-Air-Jordan
+
+# Open directly in your browser
+open index.html
+```
+
+---
+
+## 📁 Project Structure
+
+```
+Nike-Air-Jordan/
+├── 📂 images/          # Product images and brand assets
+├── index.html          # Main page structure & layout
+├── style.css           # All styling and responsive media queries
+└── README.md
+```
+
+---
+
+## 🔭 Roadmap & Possible Extensions
+
+- [ ] Add cart functionality with localStorage persistence
+- [ ] Integrate a product search bar with live filtering
+- [ ] Connect to Nike API or mock JSON product data
+- [ ] Add smooth page transitions and scroll animations (GSAP)
+- [ ] Convert to a React component-based architecture
+- [ ] Add dark mode toggle
+
+---
+
+<div align="center">
+
+## 📄 License
+
+Distributed under the **MIT License**. See `LICENSE` for more information.
+
+<br/>
+
+✨ **Let's Connect** ✨
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.chandankumar404@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Chandan404)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://chandan404.netlify.app/)
+
+<br/>
+
+⭐ **If you like this project, please give it a star!** ⭐
+
+*Made with ❤️ by **Chandan Kumar***
+
+</div>
