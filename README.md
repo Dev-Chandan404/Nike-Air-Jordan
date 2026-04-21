@@ -29,7 +29,7 @@
 <br/>
 
 <a href="https://dev-chandan404.github.io/Nike-Air-Jordan/">
-  <img src="https://api.screenshotone.com/take?url=https://dev-chandan404.github.io/Nike-Air-Jordan/&viewport_width=1280&viewport_height=720&format=jpg&image_quality=90" alt="Nike Air Jordan Clone Preview" width="90%" />
+  <img src="./images/nike.png" alt="Nike Air Jordan Clone Preview"/>
 </a>
 
 *Nike Air Jordan — A pixel-perfect UI clone built with pure HTML, CSS & JavaScript*
